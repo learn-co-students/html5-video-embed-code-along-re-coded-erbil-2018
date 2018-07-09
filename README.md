@@ -10,6 +10,10 @@ off by running the following in your terminal:
 
 ```
 git clone https://github.com/<your_username_here>/exceptional-realty
+
+
+
+
 cd exceptional-realty
 ```
 
@@ -57,7 +61,7 @@ look like this:
 
 ```
 <video controls>
-  <source src="videos/real-estate.mp4" type="video/mp4">
+  <source src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.mp4">
 </video>
 ```
 
@@ -82,8 +86,8 @@ a new page and navigates to a useful site such as
 
 ```
 <video controls>
-  <source src="videos/real-estate.mp4" type="video/mp4">
-  <source src="videos/real-estate.ogv" type="video/ogg">
+  <source src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.mp4">
+  <source src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.ogv">
   Your browser does not support HTML5 video.  <a href="https://browsehappy.com/" target="_blank">Please upgrade your browser</a>
 </video>
 ```
